@@ -1,3 +1,3 @@
 # practise-repo
 
-author - prachit bhujel
+author - pranav bhujel
